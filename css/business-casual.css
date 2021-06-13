@@ -84,7 +84,7 @@ p {
 }
 
 #mainNav .navbar-brand {
-  color: #f8f9fa;
+  color: #b87f1d;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -93,7 +93,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #f8f9fa;
+  color: #b87f1d;
 }
 
 
@@ -129,7 +129,7 @@ p {
     color: rgba(22, 33, 65, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #f8f9fa;
+    color: #b87f1d;
   }
 }
 
@@ -174,7 +174,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(22, 33, 65, 0.9);
+  background-color: rgba(105, 82, 22, 0.9);
 }
 
 .cta .cta-inner {
@@ -254,7 +254,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(22, 33, 65, 0.9);
+  background-color: rgba(105, 82, 22, 0.9);
 }
 
 .text-primary {
@@ -266,7 +266,7 @@ p {
 }
 
 .btn {
-  box-shadow: 0px 3px 3px 0px rgba(22, 33, 65, 0.1);
+  box-shadow: 0px 3px 3px 0px rgba(105, 82, 22, 0.1);
 }
 
 .btn-primary {
